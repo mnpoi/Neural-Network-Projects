@@ -1,0 +1,7 @@
+{ann_root: D:\\neural_network/annotation/karpathy, ann_root_DCC: D:\\neural_network/annotation/DCC,
+ann_root_mine: D:\\neural_network/annotation/jxh, batch_size: 1, coco_gt_root: D:\\neural_network/annotation/coco_gt,
+eval_batch_size: 64, finetune_epoch: 1, finetune_lr: 5e-06, image_root: D:\\neural_network/coco/images/,
+image_size: 384, init_lr: 5e-06, max_epoch: 5, max_length: 20, min_length: 5, min_lr: 1e-07,
+num_beams: 3, paper_own: https://storage.googleapis.com/sfr-vision-language-research/BLIP/models/model_base_caption_capfilt_large.pth,
+pretrained: https://storage.googleapis.com/sfr-vision-language-research/BLIP/models/model_base_capfilt_large.pth,
+prompt: 'a picture of ', vit: base, vit_ckpt_layer: 0, vit_grad_ckpt: false, weight_decay: 0.05}
